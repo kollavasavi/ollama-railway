@@ -7,3 +7,4 @@ EXPOSE 11434
 
 CMD ["ollama", "serve"]
 # redeploy trigger
+# trigger redeploy
